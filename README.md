@@ -71,6 +71,7 @@ psql -c "VACUUM FREEZE;" &> /dev/null
 Resource bashrc
 ```
 source ~/.bashrc
+source ~/.bash_profile
 ```
 
 install postgres gem for rails
